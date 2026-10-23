@@ -1,0 +1,2 @@
+# MissMinutes
+Conscious artificial Intelligence
